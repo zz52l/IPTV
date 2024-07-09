@@ -52,5 +52,3 @@ CCTV_4K,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 山沙卫视,http://58.248.112.205:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVaHhm7EfB24tSDTA%2B4ZUJz1BWtWU81eWqPvN0PhI2pD
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 
-影视,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
