@@ -53,4 +53,6 @@ CCTV_4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 影视,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
+斗鱼电影1,http://epg.112114.xyz/douyu/6566671
+斗鱼电影2,http://epg.112114.xyz/douyu/3637778
+动作电影,https://z02.ubtvfans.com/live/rx1/1345/381bfc5429616f237137778fae54258b/index.m3u8
