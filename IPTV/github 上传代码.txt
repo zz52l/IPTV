@@ -2,3 +2,10 @@ git add .             git status
 git commit -m "first commit"      git remote rm origin
 git remote add origin https://github.com/z24576651/IPTV-.git
 git push -u origin master
+
+
+
+
+报错更新
+git pull --rebase origin master
+git push origin master
