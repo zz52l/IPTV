@@ -1,4 +1,4 @@
-git add *
+git add .
 git commit -m "first commit"      git remote rm origin
 git remote add origin https://github.com/z24576651/IPTV-.git
 git push -u origin master
