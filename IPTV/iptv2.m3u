@@ -1,4 +1,3 @@
-央视,#genre#
 #EXTM3U
 #EXTINF:-1 ,CCTV_1
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
@@ -38,8 +37,6 @@ http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXu
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
 #EXTINF:-1 ,CCTV_4K
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-
-央视,#genre#
 #EXTINF:-1 ,湖南卫视
 http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
 #EXTINF:-1 ,浙江卫视
