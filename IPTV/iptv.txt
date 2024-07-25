@@ -29,10 +29,9 @@ CCTV-14(高清),udp://239.3.3.14:10001
 CCTV-14(高清),http://123.183.76.225:808/hls/14/index.m3u8
 CCTV-15(高清),udp://239.3.3.15:10001
 CCTV-15(高清),http://123.183.76.225:808/hls/15/index.m3u8
-CCTV-16(测试),http://123.183.76.225:808/hls/666/index.m3u8
-CCTV-16(测试),udp://239.3.3.666:10001
-CCTV-17(高清),udp://239.3.3.93:10001
-CCTV-17(高清),http://123.183.76.225:808/hls/93/index.m3u8
+CCTV_16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV_17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+CCTV_4K,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 河北卫视(高清),http://123.183.76.225:808/hls/16/index.m3u8
 湖南卫视(高清),udp://239.3.3.27:10001
 湖南卫视(高清),http://123.183.76.225:808/hls/27/index.m3u8
@@ -76,6 +75,12 @@ CCTV-17(高清),http://123.183.76.225:808/hls/93/index.m3u8
 吉林卫视(高清),http://123.183.76.225:808/hls/47/index.m3u8
 黑龙江卫视(高清),udp://239.3.3.79:10001
 黑龙江卫视(高清),http://123.183.76.225:808/hls/79/index.m3u8
+云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+三沙卫视,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/index.m3u8
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 金鹰卡通(高清),udp://239.3.3.58:10001
 金鹰卡通(高清),http://123.183.76.225:808/hls/58/index.m3u8
 金鹰纪实(高清),udp://239.3.3.87:10001
