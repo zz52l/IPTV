@@ -4,7 +4,7 @@ CCTV2-财经,http://175.18.189.238:9902/tsfile/live/0002_1.m3u8#http://[2409:808
 CCTV3-综艺,http://175.18.189.238:9902/tsfile/live/0003_1.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
 CCTV4-国际,http://175.18.189.238:9902/tsfile/live/0004_1.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226428/index.m3u8Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F
 CCTV5-体育,http://175.18.189.238:9902/tsfile/live/0005_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-CCTV5+体育赛事,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
+CCTV5+体育赛事,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
 CCTV6-电影,http://175.18.189.238:9902/tsfile/live/0006_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 CCTV7-军农,http://175.18.189.238:9902/tsfile/live/0007_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV8-电视剧,http://175.18.189.238:9902/tsfile/live/0008_1.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?$LR•IPV6『线路6』
