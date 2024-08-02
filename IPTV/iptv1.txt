@@ -52,7 +52,5 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 电影,#genre#
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-CHC 动作电影,http://175.18.189.238:9902/tsfile/live/1014_1.m3u8
-CHC 高清电影,http://175.18.189.238:9902/tsfile/live/1015_1.m3u8
-CHC 家庭影院,http://175.18.189.238:9902/tsfile/live/1016_1.m3u8
+
 虎牙悲喜,https://isus.cc/php/huya.php?id=52988#http://live.iill.top/huya.php?id=52988
