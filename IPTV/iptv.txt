@@ -34,7 +34,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$可回�
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$可回放
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视回放",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$可回放
-CCTV-4K_超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
