@@ -145,7 +145,7 @@ http://125.69.146.159:55555/udp/239.93.0.19:1250
 http://125.69.146.159:55555/udp/239.93.1.231:5140
 #EXTINF:-1 tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="全部频道",CDTV-6
 http://125.69.146.159:55555/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-name="CDTV-8高清" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="全部频道",CDTV-8高清
+#EXTINF:-1 tvg-name="CDTV-8高清" tvg-logo="https://live.fanmingming.com/tv/成都都市生活.png" group-title="全部频道",CDTV-8高清
 http://125.69.146.159:55555/udp/239.93.0.22:1252
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="全部频道",炫动卡通
 http://125.69.146.159:55555/udp/239.93.0.173:5140
