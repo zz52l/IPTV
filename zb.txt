@@ -169,3 +169,5 @@ http://125.69.146.159:55555/udp/239.93.0.95:5140
 http://125.69.146.159:55555/udp/239.93.0.138:5140
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="全部频道",超级电影
 http://125.69.146.159:55555/udp/239.93.0.139:5140
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="全部频道",星空卫视
+http://171.213.130.146:8889/udp/239.93.0.156:2193
