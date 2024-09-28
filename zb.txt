@@ -109,7 +109,7 @@ http://125.69.146.159:55555/udp/239.93.0.81:5140
 http://125.69.146.159:55555/udp/239.93.0.80:5140
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="全部频道",兵团卫视
 http://125.69.146.159:55555/udp/239.93.42.43:5140
-#EXTINF:-1 tvg-name="四川峨眉电影" tvg-logo="https://live.fanmingming.com/tv/四川峨眉电影.png" group-title="全部频道",峨眉电影高清
+#EXTINF:-1 tvg-name="峨眉电影高清" tvg-logo="https://live.fanmingming.com/tv/四川峨眉电影.png" group-title="全部频道",峨眉电影高清
 http://125.69.146.159:55555/udp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="全部频道",厦门卫视
 http://125.69.146.159:55555/udp/239.93.42.57:5140
@@ -119,35 +119,35 @@ http://125.69.146.159:55555/udp/239.93.42.58:5140
 http://125.69.146.159:55555/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="全部频道",凤凰中文
 http://125.69.146.159:55555/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="sctv2" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="全部频道",SCTV-2高清
+#EXTINF:-1 tvg-name="SCTV-2高清" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="全部频道",SCTV-2高清
 http://125.69.146.159:55555/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-name="sctv3" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="全部频道",SCTV-3高清
+#EXTINF:-1 tvg-name="SCTV-3高清" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="全部频道",SCTV-3高清
 http://125.69.146.159:55555/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-name="sctv4" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="全部频道",SCTV-4高清
+#EXTINF:-1 tvg-name="SCTV-4高清" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="全部频道",SCTV-4高清
 http://125.69.146.159:55555/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-name="sctv5" tvg-logo="https://live.fanmingming.com/tv/sctv5.png" group-title="全部频道",SCTV-5高清
+#EXTINF:-1 tvg-name="SCTV-5高清" tvg-logo="https://live.fanmingming.com/tv/sctv5.png" group-title="全部频道",SCTV-5高清
 http://125.69.146.159:55555/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-name="sctv6" tvg-logo="https://live.fanmingming.com/tv/sctv6.png" group-title="全部频道",SCTV-6高清
+#EXTINF:-1 tvg-name="SCTV-6高清" tvg-logo="https://live.fanmingming.com/tv/sctv6.png" group-title="全部频道",SCTV-6高清
 http://125.69.146.159:55555/udp/239.93.1.144:5140
-#EXTINF:-1 tvg-name="sctv7" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="全部频道",SCTV-7高清
+#EXTINF:-1 tvg-name="SCTV-7高清" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="全部频道",SCTV-7高清
 http://125.69.146.159:55555/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-name="四川科教.png" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="全部频道",SCTV科教高清
+#EXTINF:-1 tvg-name="SCTV科教高清" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="全部频道",SCTV科教高清
 http://125.69.146.159:55555/udp/239.93.42.44:5140
-#EXTINF:-1 tvg-name="cdtv1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="全部频道",CDTV-1
+#EXTINF:-1 tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="全部频道",CDTV-1
 http://125.69.146.159:55555/udp/239.93.0.16:5140
-#EXTINF:-1 tvg-name="cdtv2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="全部频道",CDTV-2
+#EXTINF:-1 tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="全部频道",CDTV-2
 http://125.69.146.159:55555/udp/239.93.0.17:1239
-#EXTINF:-1 tvg-name="cdtv3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="全部频道",CDTV-3
+#EXTINF:-1 tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="全部频道",CDTV-3
 http://125.69.146.159:55555/udp/239.93.0.18:1238
-#EXTINF:-1 tvg-name="cdtv4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="全部频道",CDTV-4
+#EXTINF:-1 tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="全部频道",CDTV-4
 http://125.69.146.159:55555/udp/239.93.0.19:1250
-#EXTINF:-1 tvg-name="cdtv5" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="全部频道",CDTV-5高清
+#EXTINF:-1 tvg-name="CDTV-5高清" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="全部频道",CDTV-5高清
 http://125.69.146.159:55555/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-name="cdtv6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="全部频道",CDTV-6
+#EXTINF:-1 tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="全部频道",CDTV-6
 http://125.69.146.159:55555/udp/239.93.0.21:1251
-#EXTINF:-1 tvg-name="cdtv8" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="全部频道",CDTV-8高清
+#EXTINF:-1 tvg-name="CDTV-8高清" tvg-logo="https://live.fanmingming.com/tv/cdtv8.png" group-title="全部频道",CDTV-8高清
 http://125.69.146.159:55555/udp/239.93.0.22:1252
-#EXTINF:-1 tvg-name="xuandong" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="全部频道",炫动卡通
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/xuandong.png" group-title="全部频道",炫动卡通
 http://125.69.146.159:55555/udp/239.93.0.173:5140
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="全部频道",嘉佳卡通
 http://125.69.146.159:55555/udp/239.93.0.246:5140
@@ -155,17 +155,17 @@ http://125.69.146.159:55555/udp/239.93.0.246:5140
 http://125.69.146.159:55555/udp/239.93.0.138:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="全部频道",金鹰卡通
 http://125.69.146.159:55555/udp/239.93.0.108:5140
-#EXTINF:-1 tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",爱谍战高清
+#EXTINF:-1 tvg-name="爱谍战高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",爱谍战高清
 http://125.69.146.159:55555/udp/239.93.42.14:5140
-#EXTINF:-1 tvg-name="IHOT爱经典" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="全部频道",爱经典高清
+#EXTINF:-1 tvg-name="爱经典高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱经典.png" group-title="全部频道",爱经典高清
 http://125.69.146.159:55555/udp/239.93.42.13:5140
-#EXTINF:-1 tvg-name="IHOT爱探索" tvg-logo="https://live.fanmingming.com/tv/IHOT爱探索.png" group-title="全部频道",爱悬疑高清
+#EXTINF:-1 tvg-name="爱悬疑高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱探索.png" group-title="全部频道",爱悬疑高清
 http://125.69.146.159:55555/udp/239.93.42.12:5140
-#EXTINF:-1 tvg-name="IHOT爱青春" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="全部频道",爱青春高清
+#EXTINF:-1 tvg-name="爱青春高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱青春.png" group-title="全部频道",爱青春高清
 http://125.69.146.159:55555/udp/239.93.42.16:5140
-#EXTINF:-1 tvg-name="IHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="全部频道",爱动漫高清
+#EXTINF:-1 tvg-name="爱动漫高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="全部频道",爱动漫高清
 http://125.69.146.159:55555/udp/239.93.42.23:5140
-#EXTINF:-1 tvg-name="NEWTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png." group-title="全部频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png." group-title="全部频道",超级电影
 http://125.69.146.159:55555/udp/239.93.0.139:5140
-#EXTINF:-1 tvg-name="IHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",谍战剧场
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",谍战剧场
 http://125.69.146.159:55555/udp/239.93.0.95:5140
