@@ -151,8 +151,6 @@ http://125.69.146.159:55555/udp/239.93.0.22:1252
 http://125.69.146.159:55555/udp/239.93.0.173:5140
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="全部频道",嘉佳卡通
 http://125.69.146.159:55555/udp/239.93.0.246:5140
-#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="全部频道",华语影院
-http://125.69.146.159:55555/udp/239.93.0.138:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="全部频道",金鹰卡通
 http://125.69.146.159:55555/udp/239.93.0.108:5140
 #EXTINF:-1 tvg-name="爱谍战高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",爱谍战高清
@@ -165,7 +163,9 @@ http://125.69.146.159:55555/udp/239.93.42.12:5140
 http://125.69.146.159:55555/udp/239.93.42.16:5140
 #EXTINF:-1 tvg-name="爱动漫高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="全部频道",爱动漫高清
 http://125.69.146.159:55555/udp/239.93.42.23:5140
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="全部频道",超级电影
-http://125.69.146.159:55555/udp/239.93.0.139:5140
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",谍战剧场
 http://125.69.146.159:55555/udp/239.93.0.95:5140
+#EXTINF:-1 tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="全部频道",华语影院
+http://125.69.146.159:55555/udp/239.93.0.138:5140
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="全部频道",超级电影
+http://125.69.146.159:55555/udp/239.93.0.139:5140
