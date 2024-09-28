@@ -33,7 +33,7 @@ http://125.69.146.159:55555/udp/239.93.0.103:5140
 http://125.69.146.159:55555/udp/239.93.0.92:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="全部频道",CCTV-5＋高清
 http://125.69.146.159:55555/udp/239.93.1.36:8004
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN英语.png" group-title="全部频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="全部频道",CGTN英语
 http://125.69.146.159:55555/udp/239.93.0.104:5140
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="全部频道",CGTN西语
 http://125.69.146.159:55555/udp/239.93.42.49:5140
