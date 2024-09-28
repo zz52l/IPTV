@@ -165,7 +165,7 @@ http://125.69.146.159:55555/udp/239.93.42.12:5140
 http://125.69.146.159:55555/udp/239.93.42.16:5140
 #EXTINF:-1 tvg-name="爱动漫高清" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="全部频道",爱动漫高清
 http://125.69.146.159:55555/udp/239.93.42.23:5140
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png." group-title="全部频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="全部频道",超级电影
 http://125.69.146.159:55555/udp/239.93.0.139:5140
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="全部频道",谍战剧场
 http://125.69.146.159:55555/udp/239.93.0.95:5140
