@@ -115,8 +115,6 @@ http://diyp.zxxoo.work/douyu/20415
 http://diyp.zxxoo.work/douyu/323876
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",恐怖惊悚✔原
 http://diyp.zxxoo.work/douyu/96577
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",电影剧场✔原
-http://diyp.zxxoo.work/douyu/7575350
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",国语电影✔原
 http://diyp.zxxoo.work/douyu/2436390
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",豆瓣高分✔原
@@ -127,20 +125,12 @@ http://diyp.zxxoo.work/douyu/52787
 http://diyp.zxxoo.work/douyu/8814650
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",鱼宝恐怖✔原
 http://diyp.zxxoo.work/douyu/1165374
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",菜园惊险✔原
-http://diyp.zxxoo.work/douyu/1735337
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",吃奶滴虫✔原
 http://diyp.zxxoo.work/douyu/263824
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",变种人片✔原
 http://diyp.zxxoo.work/douyu/9651304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",喜剧电影✔原
-http://diyp.zxxoo.work/douyu/9292492
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",女神电影✔原
 http://diyp.zxxoo.work/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",避风影院✔原
-http://diyp.zxxoo.work/douyu/9826611
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",星星影院✔原
-http://diyp.zxxoo.work/douyu/315131
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",欧美大片✔原
 http://diyp.zxxoo.work/douyu/2793084
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",贝爷影厅✔原
