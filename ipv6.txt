@@ -1,197 +1,93 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="全部频道",CCTV1
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=1
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="全部频道",CCTV2
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=2
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="全部频道",CCTV4
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=3
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="全部频道",CCTV5+
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=4
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="全部频道",CCTV7
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=5
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="全部频道",CCTV9
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=6
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="全部频道",CCTV10
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=7
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="全部频道",CCTV11
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="全部频道",CCTV12
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=9
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="全部频道",CCTV13
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=10
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://148.135.93.213:81/live.php?id=CCTV1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://148.135.93.213:81/live.php?id=CCTV2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://148.135.93.213:81/live.php?id=CCTV3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://148.135.93.213:81/live.php?id=CCTV4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://148.135.93.213:81/live.php?id=CCTV5
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://148.135.93.213:81/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://148.135.93.213:81/live.php?id=CCTV6
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://148.135.93.213:81/live.php?id=CCTV7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://148.135.93.213:81/live.php?id=CCTV8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://148.135.93.213:81/live.php?id=CCTV9
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://148.135.93.213:81/live.php?id=CCTV10
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://148.135.93.213:81/live.php?id=CCTV11
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://148.135.93.213:81/live.php?id=CCTV12
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://148.135.93.213:81/live.php?id=CCTV13
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=11
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="全部频道",CCTV15
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=12
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="全部频道",CCTV16
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=13
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="全部频道",CCTV17
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=14
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN记录
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=15
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=16
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=17
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN法语
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=18
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN阿语
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=19
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="全部频道",CGTN俄语
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=20
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="全部频道",北京卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=21
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="全部频道",江苏卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=22
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="全部频道",浙江卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=23
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="全部频道",东方卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=24
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="全部频道",广东卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=25
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="全部频道",黑龙江卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=26
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="全部频道",深圳卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=27
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="全部频道",天津卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=28
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="全部频道",山东卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=29
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="全部频道",湖北卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=30
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="全部频道",贵州卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=31
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="全部频道",江西卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=32
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="全部频道",重庆卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=33
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="全部频道",辽宁卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=34
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="全部频道",东南卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=35
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="全部频道",四川卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=36
+http://148.135.93.213:81/live.php?id=CCTV14
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://148.135.93.213:81/live.php?id=CCTV15
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://148.135.93.213:81/live.php?id=CCTV16
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://148.135.93.213:81/live.php?id=CCTV17
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://148.135.93.213:81/live.php?id=北京卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+http://148.135.93.213:81/live.php?id=湖南卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://148.135.93.213:81/live.php?id=浙江卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://148.135.93.213:81/live.php?id=江苏卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://148.135.93.213:81/live.php?id=陕西卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://148.135.93.213:81/live.php?id=湖北卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://148.135.93.213:81/live.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://148.135.93.213:81/live.php?id=江西卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://148.135.93.213:81/live.php?id=广东卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://148.135.93.213:81/live.php?id=东方卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://148.135.93.213:81/live.php?id=东南卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://148.135.93.213:81/live.php?id=吉林卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://148.135.93.213:81/live.php?id=四川卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://148.135.93.213:81/live.php?id=天津卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://148.135.93.213:81/live.php?id=安徽卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://148.135.93.213:81/live.php?id=山东卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://148.135.93.213:81/live.php?id=山西卫视
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=37
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="全部频道",河北卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=38
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="全部频道",山西卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=39
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="全部频道",陕西卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=40
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="全部频道",青海卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=41
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="全部频道",安徽卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=42
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="全部频道",甘肃卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=43
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="全部频道",宁夏卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=44
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="全部频道",内蒙古卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=45
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="全部频道",云南卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=46
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="全部频道",新疆卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=47
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="全部频道",吉林卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=48
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="全部频道",海南卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=49
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="全部频道",西藏卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=50
-#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="全部频道",延边卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=51
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="全部频道",康巴卫视
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=52
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="全部频道",CETV1
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=53
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="全部频道",CETV4
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=54
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="全部频道",卡酷少儿
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=55
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",山东教育
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=56
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="全部频道",优漫卡通
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=57
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="全部频道",哈哈炫动
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=58
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",优购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=59
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",央广购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=60
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",央广购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=61
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",快乐购
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=62
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",优购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=63
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",风尚购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=64
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",央广购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=65
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",优购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=66
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",优购物
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=67
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",超级电视剧
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=68
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",超级电影
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=69
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",睛彩竞技
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=70
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",睛彩篮球
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=71
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",超级体育
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",超级综艺
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=73
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",睛彩体育
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=74
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",精品萌宠
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=75
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",黑莓动画
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=76
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",古装剧场
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=77
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",动作电影
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=78
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",军旅剧场
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=79
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",家庭剧场
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",惊悚悬疑
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=81
+http://148.135.93.213:81/live.php?id=广西卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://148.135.93.213:81/live.php?id=河北卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://148.135.93.213:81/live.php?id=河南卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://148.135.93.213:81/live.php?id=深圳卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://148.135.93.213:81/live.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://148.135.93.213:81/live.php?id=贵州卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://148.135.93.213:81/live.php?id=辽宁卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://148.135.93.213:81/live.php?id=重庆卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://148.135.93.213:81/live.php?id=黑龙江卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",黑莓电影
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=84
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",爱情喜剧
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=85
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",精品大剧
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",中国功夫
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=87
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",金牌综艺
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",军事评论
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=89
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",哒啵赛事
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=90
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",哒啵电竞
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",精品纪录
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=92
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",怡伴健康
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=93
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",精品体育
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",潮妈辣婆
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=95
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",农业致富
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=96
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",炫舞未来
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=97
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",精品萌宠
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="全部频道",睛彩青少
-http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=99
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://148.135.93.213:81/live.php?id=西藏卫视
